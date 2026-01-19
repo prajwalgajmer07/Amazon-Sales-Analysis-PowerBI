@@ -113,7 +113,7 @@ Analyzes customer behavior and revenue contribution.
 **Filters:**
 - Year slicer (2020, 2021, 2022)
 
-**Gauges:**
+**Donut chart:**
 - Orders by Income Level
 - Orders by Occupation
 
