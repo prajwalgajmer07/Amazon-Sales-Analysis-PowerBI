@@ -171,7 +171,7 @@ This dashboard can help business stakeholders to:
 Amazon-Sales-Analysis-PowerBI  
 │  
 ├── Dataset  
-│   └── (Dataset file if public)  
+│   └── (Dataset file)  
 │  
 ├── PowerBI_File  
 │   └── Amazon_Sales_Dashboard.pbix  
