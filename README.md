@@ -170,13 +170,13 @@ This dashboard can help business stakeholders to:
 
 Amazon-Sales-Analysis-PowerBI  
 │  
-├── Dataset  
+├── 📁Dataset  
 │   └── (Dataset file)  
 │  
-├── PowerBI_File  
+├── 📁PowerBI_File  
 │   └── Amazon_Sales_Dashboard.pbix  
 │  
-├── Screenshots  
+├── 📁Screenshots  
 │   ├── Executive_Dashboard.png  
 │   ├── Map_Analysis.png  
 │   ├── Product_Details.png  
